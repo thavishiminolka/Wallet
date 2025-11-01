@@ -17,6 +17,7 @@ import { Ionicons } from "@expo/vector-icons";
 
 // const API_URL = "https://wallet-backend-seven.vercel.app/api";
 // const API_URL = "http://localhost:5000/api";
+//use url as needed
 
 const CATEGORIES = [
   { id: "food", name: "Food & Drinks", icon: "fast-food" },
